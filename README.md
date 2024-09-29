@@ -20,3 +20,7 @@ Lisensi Assets :
 2. iStock
 3. Microsoft Bing Image Generator
 4. Pinterest
+
+Hosting : Server Rumah Ketua Tim
+Domain  : Domainesia
+WebServer : nginx Web Server
